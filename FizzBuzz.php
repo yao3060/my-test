@@ -62,7 +62,7 @@ class FizzBuzz
 	}
 }
 
-$init = new FizzBuzz(40);
+$init = new FizzBuzz(100);
 ## step 1
 echo $init->game();
 
