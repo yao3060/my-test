@@ -1,0 +1,100 @@
+001 
+002 
+003 Fizz
+004 
+005 Buzz
+006 Fizz
+007 
+008 
+009 Fizz
+010 Buzz
+011 
+012 Fizz
+013 Fizz
+014 
+015 FizzBuzz
+016 
+017 
+018 Fizz
+019 
+020 Buzz
+021 Fizz
+022 
+023 Fizz
+024 Fizz
+025 Buzz
+026 
+027 Fizz
+028 
+029 
+030 FizzBuzz
+031 Fizz
+032 Fizz
+033 Fizz
+034 Fizz
+035 Fizz
+036 Fizz
+037 Fizz
+038 Fizz
+039 Fizz
+040 Buzz
+041 
+042 Fizz
+043 Fizz
+044 
+045 FizzBuzz
+046 
+047 
+048 Fizz
+049 
+050 Buzz
+051 Fizz
+052 Buzz
+053 Fizz
+054 Fizz
+055 Buzz
+056 Buzz
+057 Fizz
+058 Buzz
+059 Buzz
+060 FizzBuzz
+061 
+062 
+063 Fizz
+064 
+065 Buzz
+066 Fizz
+067 
+068 
+069 Fizz
+070 Buzz
+071 
+072 Fizz
+073 Fizz
+074 
+075 FizzBuzz
+076 
+077 
+078 Fizz
+079 
+080 Buzz
+081 Fizz
+082 
+083 Fizz
+084 Fizz
+085 Buzz
+086 
+087 Fizz
+088 
+089 
+090 FizzBuzz
+091 
+092 
+093 Fizz
+094 
+095 Buzz
+096 Fizz
+097 
+098 
+099 Fizz
+100 Buzz
